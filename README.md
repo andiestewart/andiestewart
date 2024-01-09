@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @andiestewart
+- 👀 I’m interested in creating and writing computer programs and reading!
+- 🌱 I’m currently learning about furthering my skills of using best practices and writing more complex code.
+- 💞️ I’m looking to collaborate on a professional project that would provide insight into life as a working software engineer.
+- 📫 How to reach me Email: stewart.2200@buckeyemail.osu.edu   Phone: (740) 272-2056
+- 😄 Pronouns: She/Her
